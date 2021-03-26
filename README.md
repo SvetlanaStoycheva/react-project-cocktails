@@ -9,3 +9,6 @@
 "build": "CI= react-scripts build",
 
 ```
+
+////////////////////
+React project part of the React course of John Smilga.
