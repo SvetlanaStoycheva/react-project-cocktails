@@ -1,5 +1,5 @@
 ## Cocktails
-# React project from John Smilga's React tutorial
+#### React project from John Smilga's React tutorial
 
 - using external API TheCocktailDB
 - working with react router, having multiple pages
